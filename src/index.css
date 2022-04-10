@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Lato", sans-serif;
+}
+
+body {
+    font-size: 16px;
+    --gray1: #e5e5e5;
+    --dark-grey: #2b2b2b;
+    --light-grey: #D2D2D2;
+    --sand: #D3BF95;
+    --turquoise: #0BCCCC;
+    --ocean: #0085A0;
+    --black1: #141b1b;
+    --dark-blue: #0F2027;
+    --navy: #000428;
+    --sea-blue: #2C5364;
+    --blue: #4B79A1;
+    --olive: #203A43;
+    --yellow1: #ecb900;
+    --orange1: #fc9104;
+    --dark-orange: #a15b00;
+}
+
+ul {
+    list-style: none;
+}
