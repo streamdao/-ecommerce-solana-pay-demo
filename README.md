@@ -5,7 +5,7 @@ A point-of-sale web app that allows us to take payments from customers through Q
 
 ## ToDo
 
-StreamPay App implementation
-Stream Token implementation
+- StreamPay App implementation
+- Stream Token implementation
 
 
